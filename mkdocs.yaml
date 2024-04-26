@@ -1,0 +1,5 @@
+site_name: 'Mkdocs docker'
+docs_dir: .
+
+plugins:
+  - same-dir
